@@ -39,7 +39,7 @@ The system is intentionally rule-based (no LLM usage) to ensure transparency and
 
 # Installation
 Clone the repository:
-git clone https://github.com/your-username/equity-research-generator.git
+git clone https://github.com/JakubSMaslowski/Equity-Research-Tool.git
 cd equity-research-generator
 
 Install dependencies:
