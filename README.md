@@ -4,7 +4,7 @@ A lightweight Python tool that generates structured equity research drafts using
 This project focuses on automating data collection and structuring, allowing users to spend more time on higher-value analysis rather than manual data gathering.
 
 ## Demo
-![App Screenshot](Assets_Equity_Research_Tool/demo.png)
+![App Screenshot](assets/demo.png)
 
 ## Overview
 This tool takes a stock ticker (e.g. AAPL, BHP.AX) and produces a first-pass equity research report including:
